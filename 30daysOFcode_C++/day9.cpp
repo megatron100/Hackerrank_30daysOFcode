@@ -1,3 +1,5 @@
+// program to print factorial of integer n
+
 #include <bits/stdc++.h>
 
 using namespace std;
