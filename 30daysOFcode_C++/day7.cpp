@@ -1,3 +1,5 @@
+//This program take input of n integers and print them in reverse order usign array and loops
+
 #include<iostream>
 using namespace std;
 int main(){
